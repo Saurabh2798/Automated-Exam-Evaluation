@@ -1,11 +1,6 @@
 # Automated-Exam-Evaluation
 An Optical Character Recognition and Natural Language Processing based automated exam evaluation system
 
-### Functionalities:
-- OCR
-- Check a question (one line answer)
-- Check a question (descriptive answer - In Progress)
-
 ### Usage
 
 1. Clone/Download the repository
