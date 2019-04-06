@@ -4,9 +4,7 @@ var config = require("./server/configure");
 var mongoose = require("mongoose");
 
 // Database - loginapp
-const uri =
-  "mongodb+srv://root:root@cluster0-cuslp.mongodb.net/loginapp?retryWrites=true";
-mongoose.connect(uri);
+mongoose.connect("mongodb://localhost/loginapp");
 // Create connection
 var db = mongoose.connection;
 
