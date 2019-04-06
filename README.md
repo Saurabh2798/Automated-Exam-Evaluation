@@ -21,3 +21,9 @@ $ node server
 1. Upload an image.
 2. It will open image preview, Outputs: OCR and final score using cosine similarity.
 3. User can also manage previous uploads.
+
+## Prototype screenshots
+
+![](https://github.com/Saurabh2798/Automated-Exam-Evaluation/blob/master/screenshots/page%201.png)
+
+![](https://github.com/Saurabh2798/Automated-Exam-Evaluation/blob/master/screenshots/Output.png)
